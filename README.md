@@ -1,9 +1,9 @@
 # simpleminigame
 
-Primeiros contatos com o JavaScript
+My first JavaScript project
 
 # Preview/Demo
 
 https://codepen.io/matheusgesser/pen/BaVePyV
 
-<img src="https://i.imgur.com/cFbDrBZ.png" />
+<img src="https://i.imgur.com/mSfhGEq.png" />
