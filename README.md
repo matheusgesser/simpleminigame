@@ -10,7 +10,9 @@
 
 > Simple minigame, my first JavaScript project.
 
-**Try it: <a href="https://codepen.io/matheusgesser/pen/BaVePyV
+## 🔴 **Live Version**
+
+**<a href="https://codepen.io/matheusgesser/pen/BaVePyV
 " target='_blank'>codepen.io/matheusgesser/pen/BaVePyV</a>**
 
 ## 💻 **Technologies**
