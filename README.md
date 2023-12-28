@@ -1,10 +1,5 @@
-# Simple Minigame 🎮 (very creative and original name)
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/matheusgesser/simpleminigame?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/matheusgesser/simpleminigame?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/matheusgesser/simpleminigame?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/matheusgesser/simpleminigame?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/matheusgesser/simpleminigame?style=for-the-badge)
 
 <img src="https://i.imgur.com/mSfhGEq.png" alt="Demo image">
 
